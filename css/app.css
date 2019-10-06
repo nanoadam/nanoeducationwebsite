@@ -1,0 +1,11 @@
+body {
+  background: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+.box {
+  padding: 1rem;
+  background: #333;
+  text-align: center;
+}
