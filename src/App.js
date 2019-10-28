@@ -14,16 +14,6 @@ import "./App.css";
 
 import * as firebase from "firebase";
 
-export const fire = firebase.initializeApp({
-  apiKey: "AIzaSyA0xKY1a5QMdBwPzq5ZZObDGY0pxciorXI",
-  authDomain: "nano-edu-main.firebaseapp.com",
-  databaseURL: "https://nano-edu-main.firebaseio.com",
-  projectId: "nano-edu-main",
-  storageBucket: "nano-edu-main.appspot.com",
-  messagingSenderId: "270063933250",
-  appId: "1:270063933250:web:a26f116eb63269c9c75adb"
-});
-
 class App extends React.Component {
   render() {
     return (
