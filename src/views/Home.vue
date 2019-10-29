@@ -1,12 +1,15 @@
 <template>
   <div class="home">
-    <h1>Welcome to the HomePage</h1>
+    <Showcase />
   </div>
 </template>
 
 <script>
+import Showcase from "../components/Showcase";
 export default {
   name: "home",
-  components: {}
+  components: {
+    Showcase
+  }
 };
 </script>
