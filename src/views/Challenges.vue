@@ -1,11 +1,26 @@
 <template>
   <div class="container my-4">
-    <div id="challenges">
+    <div id="challenges" class="my-2">
       <h3 class="text-center">Challenges</h3>
-      <p>There are no current challenges at the moment.</p>
+      <div class="row">
+        <div class="col-md-4 list-group">
+          <li class="list-group-item bg-primary text-white">JavaScript Challenge - 5 Points</li>
+          <li
+            class="list-group-item"
+          >Create a todo app using Vanilla JavaScript which will only add todos. No need to remove or edit.</li>
+        </div>
+        <div class="col-md-4 list-group">
+          <li class="list-group-item bg-primary text-white">JavaScript Challenge - 5 Points</li>
+          <li class="list-group-item"></li>
+        </div>
+        <div class="col-md-4 list-group">
+          <li class="list-group-item bg-primary text-white">JavaScript Challenge - 5 Points</li>
+          <li class="list-group-item"></li>
+        </div>
+      </div>
     </div>
     <div id="prizes">
-      <h3 class="text-center">Prizes</h3>
+      <h3 class="text-center mt-4">Point Tier</h3>
       <p>So, when you reach a certain amount of points, you will unlock a tier of bonuses and amazing stuff.</p>
       <div class="row">
         <div class="list-group col-md-4 col-sm-12">

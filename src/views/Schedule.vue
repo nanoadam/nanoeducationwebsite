@@ -5,10 +5,7 @@
         <h2 class="text-center my-2">Upcoming Videos</h2>
         <div class="list-group">
           <li class="list-group-item">
-            <strong>October 30, 2019:</strong> Easiest CSS Tutorial #4 - Margin and Padding
-          </li>
-          <li class="list-group-item">
-            <strong>October 31, 2019:</strong> Easiest CSS Tutorial #5 - Borders
+            <strong>October 31, 2019:</strong> Easiest CSS Tutorial #5 - Floats
           </li>
           <li class="list-group-item">
             <strong>November 1, 2019:</strong> Easiest CSS Tutorial #6
