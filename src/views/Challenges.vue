@@ -37,7 +37,7 @@
           <li
             class="list-group-item"
           >1. Get 30 Minutes Early Access to Video Before Release on Weekends</li>
-          <li class="list-group-item">2. Recieve email of video topic 3 hours before release</li>
+          <li class="list-group-item">2. Recieve Mini Clip from video 3 hours before release.</li>
         </div>
       </div>
     </div>
