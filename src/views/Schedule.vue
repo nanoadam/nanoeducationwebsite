@@ -29,7 +29,13 @@
             <strong>Video #1</strong> Build a Website with Vue and Flask
           </li>
           <li class="list-group-item">
-            <strong>Video #2</strong> VueJS Course
+            <strong>Video #2</strong> Build Modern Applications with VueJS - Course
+          </li>
+          <li class="list-group-item">
+            <strong>Video #3</strong> Build PWA with React Native Course
+          </li>
+          <li class="list-group-item">
+            <strong>Video #4</strong> Build PWA with Ionic Course
           </li>
         </div>
       </div>
