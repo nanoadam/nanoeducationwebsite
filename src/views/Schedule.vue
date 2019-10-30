@@ -34,6 +34,12 @@
           <li class="list-group-item">
             <strong>Video #4</strong> Build PWA with Ionic Course
           </li>
+          <li class="list-group-item">
+            <strong>Video #5</strong> Create a Coding YouTube Channel
+          </li>
+          <li class="list-group-item">
+            <strong>Video #6</strong> Writing Great Content for Websites
+          </li>
         </div>
       </div>
     </div>
