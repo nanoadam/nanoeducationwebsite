@@ -5,25 +5,16 @@
         <h2 class="text-center my-2">Upcoming Videos</h2>
         <div class="list-group">
           <li class="list-group-item">
-            <strong>October 31, 2019:</strong> Easiest CSS Tutorial #5 - Borders
+            <strong>November 3, 2019:</strong> Get Started with JS Game Development #1
           </li>
           <li class="list-group-item">
-            <strong>November 1, 2019:</strong> Easiest CSS Tutorial #6 - Box Sizing
+            <strong>November 4, 2019:</strong> Get Started with JS Game Development #2
           </li>
           <li class="list-group-item">
-            <strong>November 2, 2019:</strong> Easiest CSS Tutorial #7 - Floats
+            <strong>November 5, 2019:</strong> Get Started with JS Game Development #3
           </li>
           <li class="list-group-item">
-            <strong>November 3, 2019:</strong> Easiest CSS Tutorial #8 - Container
-          </li>
-          <li class="list-group-item">
-            <strong>November 4, 2019:</strong> Easiest CSS Tutorial #9 - Buttons
-          </li>
-          <li class="list-group-item">
-            <strong>November 5, 2019:</strong> Easiest CSS Tutorial #10 - Navbar Part A
-          </li>
-          <li class="list-group-item">
-            <strong>November 6, 2019:</strong> Easiest CSS Tutorial #11 - Navbar Part B
+            <strong>November 6, 2019:</strong> Get Started with JS Game Development #4
           </li>
         </div>
       </div>
