@@ -1,4 +1,5 @@
-# nano_edu_web
+# Nano Education Website
+The website for the Nano Education YouTube channel.
 
 ## Project setup
 ```
@@ -20,5 +21,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
